@@ -1,6 +1,12 @@
-<!-- 💜 Purple-Themed GitHub Profile README -->
+<!-- 💜 Purple-Themed GitHub Profile README with Typing Animation -->
 
-<h1 align="center">👋 Hi there, I'm <span style="color:#b26fff;">Kushal</span></h1>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A4DFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Kushal+👋;Technology+is+Elegant;Logic+meets+Creativity+💡" alt="Typing SVG" />
+</p>
+
+<!-- Title -->
+<h1 align="center">💜 Welcome to My GitHub Profile 💜</h1>
 
 <h3 align="center">🚀 Passionate Computer Engineer | Java & DSA Enthusiast | Builder of Practical Tech</h3>
 
@@ -87,6 +93,10 @@ I value **clarity, structure, and scalability** — whether it’s in code, desi
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+</p>
 
 <p align="center">
   💫 <b>Technology is Elegant.</b>
