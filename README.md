@@ -17,7 +17,6 @@
 💡 Deeply curious about how systems work and how code turns ideas into reality.  
 🧩 I enjoy designing **logical, clean, and efficient** solutions using **Java** & **Data Structures**.  
 🎨 Currently exploring **Frontend Fundamentals** to enhance my full-stack understanding.  
-🌌 On a journey to master **System Design** & **Software Architecture** principles.
 
 ---
 
@@ -42,7 +41,6 @@
 <img src="https://img.shields.io/badge/VS%20Code-7B68EE?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SQLite-6A0DAD?style=for-the-badge&logo=sqlite&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JDBC-9932CC?style=for-the-badge&logo=java&logoColor=white"/> 
 
 </div>
 
