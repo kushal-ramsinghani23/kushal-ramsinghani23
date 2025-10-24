@@ -46,6 +46,7 @@
 
 ---
 
+<!--
 ### 💜 Featured Projects  
 
 #### 🔐 [**DES Encryption (BitSet)**](https://github.com/kushal-ramsinghani23/des-encryption-bitset)
@@ -61,6 +62,7 @@
 > GUI-based system using **Java Swing**, **JDBC**, and **SQLite**, supporting secure registration & login.
 
 ---
+-->
 
 ### 🪶 Design Philosophy  
 > *"Write code that not only works, but teaches you something every time you revisit it."*  
