@@ -95,7 +95,7 @@ I value **clarity, structure, and scalability** — whether it’s in code, desi
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" />
+  <img src="[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png](https://png.pngtree.com/png-clipart/20201225/ourmid/pngtree-abstract-purple-wave-stylish-background-png-image_2582997.jpg)" width="100%" />
 </p>
 
 <p align="center">
