@@ -84,15 +84,13 @@ I value **clarity, structure, and scalability** — whether it’s in code, desi
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kushal-ramsinghani23&show_icons=true&theme=tokyonight&hide_border=true" alt="Kushal's GitHub stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kushal-ramsinghani23&theme=tokyonight&hide_border=true" />
-</p>
-
----
+</p> -->
 
 <p align="center">
   <img src="[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png](https://png.pngtree.com/png-clipart/20201225/ourmid/pngtree-abstract-purple-wave-stylish-background-png-image_2582997.jpg)" width="100%" />
