@@ -64,25 +64,25 @@
 
 ### 💜 Featured Projects
 
-#### 🏗️ [**Blogar CMS**](https://github.com/kushal-ramsinghani23)
+#### 🏗️ [**Blogar CMS**](https://github.com/kushal-ramsinghani23/blog_project)
 > Production-grade blog CMS backend with **Spring Boot**, **PostgreSQL**, **Redis**, and **JWT + 2FA** authentication.
 - Secure role-based access control with Spring Security
 - Full-text search with GIN indexes and Redis caching
 - Flyway migrations, async workflows, rate limiting
 
-#### 🤖 [**BlogRadar**](https://github.com/kushal-ramsinghani23)
+#### 🤖 [**BlogRadar**](https://github.com/kushal-ramsinghani23/blograd)
 > AI-powered content intelligence system built with **Flask**, **LangGraph**, **Groq**, and **Gemini**.
 - LangGraph agents for scraping, ranking, summarization, and rewriting
 - Human-in-the-loop workflow for reviewing AI-generated content
 - BeautifulSoup + Playwright for robust web scraping
 
-#### 🔐 [**Secure Contact Manager**](https://github.com/kushal-ramsinghani23)
+#### 🔐 [**Secure Contact Manager**](https://github.com/kushal-ramsinghani23/Secure-Contact-Manager)
 > CLI-based secure CRUD contact system in **Java** with hand-built XML parser and **BitSet DES encryption**.
 - Custom XML parser with stack-based hierarchy extraction
 - Graceful JVM shutdown hooks for encrypted file persistence
 - Modular components for parsing, CRUD, and encryption
 
-#### 📄 [**JavaDocParser**](https://github.com/kushal-ramsinghani23)
+#### 📄 [**JavaDocParser**](https://github.com/kushal-ramsinghani23/Java-Document-Parser)
 > Regex-based **Java** source parser that generates styled HTML documentation inspired by official Java docs.
 - Captures classes, methods, fields, JavaDoc comments, generics, annotations
 - Dynamic HTML output with navigation, summary tables, method filtering
